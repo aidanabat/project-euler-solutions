@@ -1,0 +1,11 @@
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.exe
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.deps.json
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.runtimeconfig.json
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.runtimeconfig.dev.json
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.dll
+D:\Desktop\C# Programming\Project Euler\Problem_2\bin\Debug\netcoreapp3.1\Problem_2.pdb
+D:\Desktop\C# Programming\Project Euler\Problem_2\obj\Debug\netcoreapp3.1\Problem_2.csprojAssemblyReference.cache
+D:\Desktop\C# Programming\Project Euler\Problem_2\obj\Debug\netcoreapp3.1\Problem_2.AssemblyInfoInputs.cache
+D:\Desktop\C# Programming\Project Euler\Problem_2\obj\Debug\netcoreapp3.1\Problem_2.AssemblyInfo.cs
+D:\Desktop\C# Programming\Project Euler\Problem_2\obj\Debug\netcoreapp3.1\Problem_2.dll
+D:\Desktop\C# Programming\Project Euler\Problem_2\obj\Debug\netcoreapp3.1\Problem_2.pdb
